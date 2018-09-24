@@ -1,4 +1,4 @@
-h1 A2 ReadMe
+#h1 A2 ReadMe
 
 A Version Control System allows the user to track the changes and updates they have made to their files over a period of time. If an error was to occur, the VCS would allow me to go back into previous versions to recover information or start from before the occurrence of the error, like a save point.
 
