@@ -1,4 +1,7 @@
 1. Data travels through the internet by dividing itself into smaller parcels information known as "packets." These packets then take large amounts of data, such as a photograph, and disperses them to the correct address where they are then refigured together into the complete image.
+
 Domain Name System, or DNS, associates the name of the address to the corresponding Internet Protocol address, or IP address. Used together they can help your computer connect to your desired destination on the internet
+
 A cookie is essentially an ID card that your web browser uses to remember who you are.
+
 The three basic parts of a Uniform Resource Locator are: protocol, domain name, and path.
