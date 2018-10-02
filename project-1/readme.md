@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<html>
+
 <h1>Project 1 Technical Report</h1>
 <p>
 Browsers that I use to surf the web:
@@ -66,3 +68,5 @@ Here is my screenshot from the spot where I had trouble:
 <p>
 <img src="./images/project-1-screenshot.png" />
 </p>
+
+</html>
