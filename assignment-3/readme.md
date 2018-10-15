@@ -1,4 +1,4 @@
-<h1>Assignment 3 Technical Report<h1>
+<h1>Assignment 3 Technical Report</h1>
 <ol>
   <li>An html page can only have one <b>main</b> head and body elements per page. These two main elements differ in their function. The <b>head</b> element focuses on structuring the document format and styling, whereas the <b>body</b> element is basically like your body paragraph of an essay: it's where all the visible content is displayed.</li>
   <br />
