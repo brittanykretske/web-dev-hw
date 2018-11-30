@@ -1,13 +1,6 @@
-
-
-
-.stripe-1 {
-  color: white;
-  background: repeating-linear-gradient(
-    45deg,
-    #f7d08a,
-    #f7d08a 100px,
-    #87b6a7 100px,
-    #87b6a7 200px
-  );
+.image {
+   background-color: white;
+   width: 300px;
+   height: 300px;
+   position: align-left;
 }
