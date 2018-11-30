@@ -1,36 +1,10 @@
-<style>
-    .background {
-        background-color: #BCBCBC;
-        width: 100px;
-        height: 50px;
-        padding: 0;
-        margin: 0
-    }
-    .line1 {
-        width: 112px;
-        height: 47px;
-        border-bottom: 1px solid red;
-        -webkit-transform:
-            translateY(-20px)
-            translateX(5px)
-            rotate(27deg);
-        position: absolute;
-        /* top: -20px; */
-    }
-    .line2 {
-        width: 112px;
-        height: 47px;
-        border-bottom: 1px solid green;
-        -webkit-transform:
-            translateY(20px)
-            translateX(5px)
-            rotate(-26deg);
-        position: absolute;
-        top: -33px;
-        left: -13px;
-    }
-</style>
-<div class="background">
-    <div class="line1"></div>
-    <div class="line2"></div>
-</div>
+.stripe-1 {
+  color: white;
+  background: repeating-linear-gradient(
+    45deg,
+    #f7d08a,
+    #f7d08a 100px,
+    #87b6a7 100px,
+    #87b6a7 200px
+  );
+}
