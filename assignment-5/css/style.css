@@ -42,7 +42,7 @@
 
   /* For Fun! To Center Vertically and Horizontally */
   top: 50%;
-  left: 50%;
+  left: 100px;
      -ms-transform: translate(-50%, -50%); /* IE 9 */
  -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
          transform: translate(-50%, -50%);
