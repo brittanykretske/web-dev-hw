@@ -10,38 +10,39 @@
 
 .box-1 {
    background-color: #D6A32C;
-   width: 400px;
+   width: 800px;
    height: 100px;
 }
 
 
 .box-2 {
    background-color: #D6792C;
-   width: 400px;
+   width: 800px;
    height: 100px;
 }
 
 .box-3 {
    background-color: #5DBFA0;
-   width: 400px;
+   width: 800px;
    height: 100px;
 }
 
 .box-4 {
    background-color: #42321F;
-   width: 400px;
+   width: 800px;
    height: 100px;
 }
 
 /*here comes my text*/
 .text-container {
   background-color: rgba(255, 255, 255, 0.8);
-  width: 400px;
+  width: 700px;
   position: absolute;
+  font-family: "Times New Roman", Times, sans-serif;
 
   /* For Fun! To Center Vertically and Horizontally */
   top: 50%;
-  left: 86%;
+  left: 50%;
      -ms-transform: translate(-50%, -50%); /* IE 9 */
  -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
          transform: translate(-50%, -50%);
@@ -51,8 +52,4 @@ h1+p {
   color: white;
   padding: 5px;
   letter-spacing: 4px;
-}
-
-p {
-    font-family: "Times New Roman", Times, sans-serif;
 }
