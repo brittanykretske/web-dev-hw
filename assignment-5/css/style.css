@@ -11,13 +11,13 @@
 
   width: 1000px;
   height: 100px;
-  float:right;
+  float:center;
 }
 
 .box-1 {
    background-color: #f7d08a;
-   top: 0;
-  left: 0;
+   width: 1000px;
+   height" 100px;
 }
 
 
