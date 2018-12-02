@@ -36,13 +36,13 @@
 /*here comes my text*/
 .text-container {
   background-color: rgba(255, 255, 255, 0.8);
-  width: 700px;
+  width: 800px;
   position: absolute;
   font-family: "Times New Roman", Times, sans-serif;
 
   /* For Fun! To Center Vertically and Horizontally */
   top: 50%;
-  left: 100px;
+  left: 500px;
      -ms-transform: translate(-50%, -50%); /* IE 9 */
  -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
          transform: translate(-50%, -50%);
