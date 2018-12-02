@@ -46,7 +46,7 @@ body {
   width: 400px;
   position: absolute;
 
-  /* For Fun! To Center Vertically and Horizontally */
+  /* alignment */
   top: 50%;
   left: 86%;
      -ms-transform: translate(-50%, -50%); /* IE 9 */
