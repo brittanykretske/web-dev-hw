@@ -45,19 +45,17 @@ body {
   background-color: rgba(255, 255, 255, 0.8);
   width: 400px;
   position: absolute;
-  text-align: center;
 
   /* For Fun! To Center Vertically and Horizontally */
   top: 50%;
   left: 86%;
      -ms-transform: translate(-50%, -50%); /* IE 9 */
-     -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
-     transform: translate(-50%, -50%);
+ -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
+         transform: translate(-50%, -50%);
 }
 h1+p {
   background-color: black;
   color: white;
   padding: 5px;
   letter-spacing: 4px;
-  text-align: center;
 }
