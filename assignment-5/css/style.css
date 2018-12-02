@@ -9,26 +9,32 @@
 .box {
   zoom: 1;
 
-  width: 1000px;
+  width: 800px;
   height: 100px;
   float: center;
 }
 
 .box-1 {
-   background-color: #f7d08a;
-   width: 1000px;
+   background-color: #D6A32C;
+   width: 800px;
    height: 100px;
 }
 
 
 .box-2 {
-   background-color: #f79f79;
-   width: 1000px;
+   background-color: #D6792C;
+   width: 800px;
    height: 100px;
 }
 
 .box-3 {
-   background-color: #87b6a7;
-   width: 1000px;
+   background-color: #5DBFA0;
+   width: 800px;
+   height: 100px;
+}
+
+.box-4 {
+   background-color: #42321F;
+   width: 800px;
    height: 100px;
 }
