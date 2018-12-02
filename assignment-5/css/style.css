@@ -28,32 +28,15 @@
 }
 
 .box-3 {
-   background-color: #E8D8B9;
-   width: 800px;
-   height: 100px;
-}
-
-.box-4 {
    background-color: #5DBFA0;
    width: 800px;
    height: 100px;
 }
 
-.box-5 {
+.box-4 {
    background-color: #42321F;
    width: 800px;
    height: 100px;
 }
 
 /*here comes my text*/
-
-.main-container {
-    border: 15px solid #5DBFA0;
-    border-radius: 5px;
-    padding: 10px;
-    background: white;
-}
-
-h1 {
-    background: white;
-  }
