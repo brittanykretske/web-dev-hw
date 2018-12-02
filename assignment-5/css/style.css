@@ -1,3 +1,10 @@
+body {
+  background-color: #E8D8B9;
+  font-family: sans-serif;
+  text-align: center;
+    margin: 0;
+}
+
 /*my colored shapes*/
 
 .box {
@@ -36,15 +43,14 @@
 /*here comes my text*/
 .text-container {
   background-color: rgba(255, 255, 255, 0.8);
-  width: 800px;
+  width: 400px;
   position: absolute;
-  font-family: "Times New Roman", Times, sans-serif;
 
-
+  /* For Fun! To Center Vertically and Horizontally */
   top: 50%;
   left: 86%;
-     -ms-transform: translate(-50%, -50%);
- -webkit-transform: translate(-50%, -50%);
+     -ms-transform: translate(-50%, -50%); /* IE 9 */
+ -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
          transform: translate(-50%, -50%);
 }
 h1+p {
