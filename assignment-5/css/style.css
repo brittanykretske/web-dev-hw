@@ -5,6 +5,11 @@ body {
     margin: 0;
 }
 
+h1 {
+           color: #5DBFA0;
+           font-size: 40px;
+      }
+
 /*my colored shapes*/
 
 .box {
