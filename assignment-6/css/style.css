@@ -1,5 +1,4 @@
 /* Page-Wide */
-
 body {
   background-color: rgb(147, 12, 76);
 }
@@ -17,7 +16,62 @@ p, a {
   margin: 3em;
 }
 
-/*  Line Divider */
+
+/* Title Content */
+#title {
+  text-align: right;
+  margin-bottom: 5em;
+}
+#title h1 {
+  font-size: 3em;
+  letter-spacing: 3px;
+  margin-bottom: 0em;
+  color: rgb(11, 44, 126);
+}
+#title h1::first-letter {
+  font-size: 2.5em;
+  vertical-align: middle;
+}
+#title h2 {
+  text-transform: uppercase;
+  font-size: 1.3em;
+  margin-top: -2.8em;
+  color: rgb(147, 12, 76);
+}
+#title p {
+  font-style: italic;
+}
+
+/* Paragraph Content */
+.content {
+  font-size: 1.25em;
+  text-indent: 1.5em;
+  line-height: 1.45em;
+  font-weight: 400;
+}
+.content p:first-child {
+  text-indent: 0;
+}
+.content p:first-of-type:first-letter {
+  font-family: 'Meddon', cursive;
+  font-size: 4em;
+  letter-spacing: 10px;
+  font-weight: 700;
+  color: rgb(11, 44, 126);
+}
+
+
+/* Specific Instances */
+.spoken {
+  font-style: italic;
+}
+#first-offer .spoken {
+  font-weight: 700;
+  color: rgb(147, 12, 76);
+}
+
+
+/* Decorative Line Divider */
 .divider {
   border-bottom: 3px solid rgb(255,200,80);
   width: 20%;
