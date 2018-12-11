@@ -1,3 +1,62 @@
+/* Page-Wide */
+
+body {
+  background-color: rgb(147, 12, 76);
+}
+p, a {
+  margin-bottom: 2em;
+  text-decoration: none;
+  color: inherit;
+}
+
+
+/* Separate Text From Page Background for Legibility */
+.text-container {
+  background-color: #FFFFFF;
+  padding: 4em;
+  margin: 3em;
+}
+
+/*  Line Divider */
+.divider {
+  border-bottom: 3px solid rgb(255,200,80);
+  width: 20%;
+  margin: 4em auto;
+}
+
+
+/* "Read More!" Button */
+#button-container {
+  width: 15em;
+  height: 4em;
+  margin: auto;
+}
+.button p {
+  font-size: 1.25em;
+  text-align: center;
+  color: #FFFFFF;
+}
+.button p:active {
+  color: rgb(255,200,80);
+}
+.button {
+  height: 100%;
+  background-color: rgb(11, 44, 126);
+  border-color: #8f8b8b #383636 #383636 #8f8b8b;
+  border-width: 6px 10px 10px 6px;
+  border-style: solid;
+}
+.button:hover {
+  background-image: url('../images/sparkles.png');
+  background-size: 40px 40px;
+  background-repeat: no-repeat;
+}
+.button:active {
+  background-color: rgb(6,26,75);
+  border-color: #383636 #8f8b8b #8f8b8b #383636;
+  border-width: 10px 6px 6px 10px;
+}
+
 /*my fonts*/
 
 .title {
@@ -16,5 +75,8 @@
 
 .p{
   font-family: 'Cinzel', serif;
-  float: center;
+  font-size: 1.25em;
+  text-indent: 1.5em;
+  line-height: 1.45em;
+  font-weight: 400;
 }
