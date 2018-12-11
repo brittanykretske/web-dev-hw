@@ -96,13 +96,15 @@ p, a {
 
 .title {
   font-family: 'Metamorphous', 'Noto Serif SC', cursive;
-  font-size: 50pt;
+  font-size: 75pt;
+  text-indent: 2.5em;
   float: center;
 }
 
 .subtitle {
   font-family: 'Metamorphous', 'Noto Serif SC', cursive;
   font-size: 32pt;
+  text-indent: 2.5em;
   color: #343135;
   float: center;
 }
