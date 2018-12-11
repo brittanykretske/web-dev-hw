@@ -2,12 +2,14 @@
 
 .title {
   font-family: 'Metamorphous', cursive;
+  font-size: 32pt;
   float: center;
 }
 
 
 .chapter {
   font-family: 'Josefin Slab', serif;
+  font-size: 22pt;
   float: center;
 }
 
