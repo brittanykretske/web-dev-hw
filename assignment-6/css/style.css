@@ -117,19 +117,19 @@ p, a {
 /*my fonts*/
 
 .title {
-  font-family: 'Metamorphous', cursive;
+  font-family: 'Metamorphous', 'Noto Serif SC', cursive;
   font-size: 50pt;
   float: center;
 }
 
 .subtitle {
-  font-family: 'Metamorphous', cursive;
+  font-family: 'Metamorphous', 'Noto Serif SC', cursive;
   font-size: 32pt;
   float: center;
 }
 
 .chapter {
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Josefin Slab', 'Noto Serif SC', serif;
   font-size: 22pt;
   float: center;
   text-align: center;
@@ -137,7 +137,7 @@ p, a {
 
 
 .p{
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', 'Josefin Slab', serif;
   font-size: 1.25em;
   text-indent: 1.5em;
   line-height: 1.45em;
