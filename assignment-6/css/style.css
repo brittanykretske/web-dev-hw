@@ -122,6 +122,11 @@ p, a {
   float: center;
 }
 
+.subt {
+  font-family: 'Metamorphous', cursive;
+  font-size: 22pt;
+  float: center;
+}
 
 .chapter {
   font-family: 'Josefin Slab', serif;
