@@ -23,31 +23,6 @@ p, a {
      }
 
 
-/* Title Content */
-#title {
-  text-align: right;
-  margin-bottom: 5em;
-}
-#title h1 {
-  font-size: 3em;
-  letter-spacing: 3px;
-  margin-bottom: 0em;
-  color: rgb(11, 44, 126);
-}
-#title h1::first-letter {
-  font-size: 2.5em;
-  vertical-align: middle;
-}
-#title h2 {
-  text-transform: uppercase;
-  font-size: 1.3em;
-  margin-top: -2.8em;
-  color: rgb(147, 12, 76);
-}
-#title p {
-  font-style: italic;
-}
-
 /* Paragraph Content */
 .content {
   font-size: 1.25em;
