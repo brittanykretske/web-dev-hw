@@ -1,3 +1,6 @@
+* {
+  line-height: normal;
+}
 /* Page-Wide */
 body {
   background-color: #513857;
@@ -125,12 +128,14 @@ p, a {
 .subtitle {
   font-family: 'Metamorphous', 'Noto Serif SC', cursive;
   font-size: 32pt;
+  color: #343135;
   float: center;
 }
 
 .chapter {
   font-family: 'Josefin Slab', 'Noto Serif SC', serif;
   font-size: 22pt;
+  color: #23042a;
   float: center;
   text-align: center;
 }
