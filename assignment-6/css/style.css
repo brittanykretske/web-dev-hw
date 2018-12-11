@@ -118,13 +118,13 @@ p, a {
 
 .title {
   font-family: 'Metamorphous', cursive;
-  font-size: 32pt;
+  font-size: 50pt;
   float: center;
 }
 
 .subtitle {
   font-family: 'Metamorphous', cursive;
-  font-size: 25pt;
+  font-size: 32pt;
   float: center;
 }
 
@@ -132,6 +132,7 @@ p, a {
   font-family: 'Josefin Slab', serif;
   font-size: 22pt;
   float: center;
+  text-align: center;
 }
 
 
