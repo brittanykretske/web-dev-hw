@@ -1,0 +1,18 @@
+/*my fonts*/
+
+.title {
+  font-family: 'Metamorphous', cursive;
+  float: center;
+}
+
+
+.chapter {
+  font-family: 'Josefin Slab', serif;
+  float: center;
+}
+
+
+.p{
+  font-family: 'Cinzel', serif;
+  float: center;
+}
