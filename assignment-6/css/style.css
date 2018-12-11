@@ -97,21 +97,20 @@ p, a {
 .title {
   font-family: 'Metamorphous', 'Noto Serif SC', cursive;
   font-size: 75pt;
-  text-indent: 2em;
+  text-indent: 2.5em;
   float: center;
 }
 
 .subtitle {
   font-family: 'Metamorphous', 'Noto Serif SC', cursive;
   font-size: 32pt;
-  text-indent: 4.5em;
   color: #343135;
   float: center;
 }
 
 .chapter {
   font-family: 'Josefin Slab', 'Noto Serif SC', serif;
-  font-size: 32pt;
+  font-size: 22pt;
   color: #23042a;
   float: center;
   text-align: center;
