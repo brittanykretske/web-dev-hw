@@ -1,3 +1,24 @@
+/* oage wide elemets */
+
+html {
+  width: 100%;
+  height: 100%;
+  background-image: "/images/yellow-lines.jpg";
+  background-size: cover;
+  margin: 0;
+}
+body {
+  width: inherit;
+  font-family: 'Space Mono', monospace;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+
+/* design for the website */
+
 #image-container {
   /* positioning: */
   position: absolute;
@@ -20,4 +41,32 @@
   left: 0;
 /* layering: */
   z-index: 0;
+}
+
+/* content for the website */
+
+#content-container {
+  width: inherit;
+/* positioning */
+  position: absolute;
+  bottom: 5%;
+}
+.name-design {
+  font-size: 2em;
+  text-align: right;
+}
+h1 {
+  background-color: rgba(255,255,255,.5);
+  border: 3px solid #FFFFFF;
+  color: #000000;
+  font-size: 3em;
+  text-transform: uppercase;
+  padding-right: 30px;
+  margin: 0;
+}
+p {
+  color: #000000;
+  margin: 0;
+  padding-right: 30px;
+  font-weight: bold;
 }
