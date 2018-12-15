@@ -40,10 +40,6 @@ a {
   z-index: 0;
 }
 
-h3 {
-  left: 150px;
-}
-
 /* page content */
 #content-container {
   width: inherit;
@@ -65,11 +61,11 @@ h1 {
   padding-right: 30px;
   margin: 10;
 }
-p {
-  color: #000000;
-  margin: 0;
+
+h3 {
+  font-size: 3em;
   padding-right: 30px;
-  font-weight: bold;
+  margin: 10;
 }
 
 
