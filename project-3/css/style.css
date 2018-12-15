@@ -73,7 +73,7 @@ h3 {
 .github-profile-link-container {
   width: 75px;
   height: 75px;
-  border: 2px dotted #FCBA13;
+  border: 2px dashed #FCBA13;
   border-radius: 100px;
 /* positioning: */
   float: right;
