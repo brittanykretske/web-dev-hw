@@ -54,7 +54,7 @@ a {
 }
 h1 {
   background-color: rgba(255,255,255,.5);
-  border: 3px solid #FCBA13;
+  border: 3px dashed #FCBA13;
   color: #000000;
   font-size: 7em;
   text-transform: uppercase;
