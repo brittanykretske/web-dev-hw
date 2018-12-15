@@ -82,7 +82,7 @@ p {
 .github-profile-link-container {
   width: 50px;
   height: 50px;
-  border: 2px solid #FCBA13;
+  border: 2px dashed #FCBA13;
   border-radius: 100px;
 /* positioning: */
   float: right;
@@ -90,7 +90,7 @@ p {
   padding: 10px;
 }
 .github-profile-link-container:hover {
-  background-color: #B1DFD8;
+  background-color: #FCBA13;
 }
 .github-profile-link-container>img {
   width: 30px;
