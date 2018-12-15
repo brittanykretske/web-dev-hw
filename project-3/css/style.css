@@ -60,6 +60,7 @@ h1 {
   text-transform: uppercase;
   padding-right: 30px;
   margin: 10;
+  left: 5px;
 }
 
 h3 {
@@ -68,7 +69,9 @@ h3 {
   max-width: 300px;
   padding-right: 30px;
   margin: 10;
+  left: 5px;
 }
+
 
 
 /* profile links */
