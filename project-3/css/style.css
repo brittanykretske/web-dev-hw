@@ -48,6 +48,15 @@ a {
   position: absolute;
   bottom: 5%;
 }
+
+.yellow {
+   background-color: yellow;
+   width: 140px;
+   height: 525px;
+   position: absolute;
+   right: 80px;
+   bottom: 0;
+
 .name-design {
   font-size: 7em;
   text-align: right;
