@@ -54,7 +54,7 @@ a {
 }
 h1 {
   background-color: rgba(255,255,255,.5);
-  border: 3px dashed #FCBA13;
+  border: 3px dashed #EDED46;
   color: #000000;
   font-size: 6em;
   text-transform: uppercase;
@@ -64,9 +64,9 @@ h1 {
 }
 
 h3 {
-  background-color: #FCBA13;
+  background-color: #B1DFD8;
   font-size: 3em;
-  max-width: 550px;
+  max-width: 500px;
   padding-right: 30px;
   margin: 10;
   left: 5px;
@@ -78,7 +78,7 @@ h3 {
 .github-profile-link-container {
   width: 75px;
   height: 75px;
-  border: 2px dashed #FCBA13;
+  border: 2px dashed #EDED46;
   border-radius: 100px;
 /* positioning: */
   float: right;
@@ -86,7 +86,7 @@ h3 {
   padding: 15px;
 }
 .github-profile-link-container:hover {
-  background-color: #FCBA13;
+  background-color: #EDED46;
 }
 .github-profile-link-container>img {
   width: 60px;
