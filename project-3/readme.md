@@ -6,4 +6,4 @@ C.) The hardest task was working on a lot of the design aspects and actually get
 
 D.) I focused on my design element first, searching for images and a theme that I thought suited me. I really like the graphic sketchy look I went for because its fun, and the camera gif added some life to the page. I kept it very simple, with a clean white background (because the gif is not transparent, there was a big white rectangle in the center of the page and I didn't like how it stood out awkwardly with color in the background) with fun colored tabs for the links that correspond with the colors on the polaroid camera. All in all I think I kept to the theme well. Then I worked on finding fonts and actually building the layout with html and css. The css came much quicker to me this week than last, but I still put a lot of work into getting it where it is now. Before I finished I made sure all my links worked appropriately.
 
-E.) <img src="./images/hp-screenshot.png" />
+E.) <img src="./images/screenshot.png" />
