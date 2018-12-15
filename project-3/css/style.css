@@ -40,6 +40,9 @@ a {
   z-index: 0;
 }
 
+h3 {
+  left: 150px;
+}
 
 /* page content */
 #content-container {
