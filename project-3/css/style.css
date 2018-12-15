@@ -1,13 +1,12 @@
-/* fonts */
-
+/* google fonts */
 @import url('https://fonts.googleapis.com/css?family=Thasadith');
 
-/*poage wide elemets */
 
+/* site wide */
 html {
   width: 100%;
   height: 100%;
-  background-image: "/images/yellow-lines.jpg";
+  background-image: url(../images/yellow-lines.jpg);
   background-size: cover;
   margin: 0;
 }
@@ -21,8 +20,7 @@ a {
 }
 
 
-/* design for the website */
-
+/* page design */
 #image-container {
   /* positioning: */
   position: absolute;
@@ -36,7 +34,7 @@ a {
 #overlay {
   width: 100%;
   height: 100%;
-  background-image: "/images/yellow-lines.jpg";
+  background-image: url(../images/yellow-lines.jpg);
   background-size: cover;
   opacity: .3;
 /* positioning: */
@@ -47,8 +45,8 @@ a {
   z-index: 0;
 }
 
-/* content for the website */
 
+/* page content */
 #content-container {
   width: inherit;
 /* positioning */
@@ -73,4 +71,54 @@ p {
   margin: 0;
   padding-right: 30px;
   font-weight: bold;
+}
+
+
+/* profile links */
+.github-profile-link-container {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #FFFFFF;
+  border-radius: 100px;
+/* positioning: */
+  float: right;
+  margin: 30px;
+  padding: 10px;
+}
+.github-profile-link-container:hover {
+  background-color: #FCBA13;
+}
+.github-profile-link-container>img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+
+
+/* assignment links */
+.assignment-links {
+/* positioning: */
+  position: absolute;
+  top: -30px;
+  left: 0;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
+.assignment-links a {
+  font-size: 20px;
+  padding: 5px 7px;
+  background-color: #B1DFD8;
+  border: 5px solid transparent;
+  border-radius: 100%;
+  color: #000000;
+  font-weight: bold;
+}
+.assignment-links a:hover {
+  border: 5px solid white;
+  position: relative;
+  bottom: 10px;
 }
