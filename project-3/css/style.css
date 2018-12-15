@@ -23,7 +23,7 @@ a {
 #image-container {
   /* positioning: */
   position: absolute;
-  bottom: 0;
+  bottom: 50;
   left: 180px;
 }
 
