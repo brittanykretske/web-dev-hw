@@ -66,6 +66,7 @@ h3 {
 
   background-color: #FCBA13;
   font-size: 3em;
+  max-width: 300px;
   padding-right: 30px;
   margin: 10;
 }
