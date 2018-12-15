@@ -113,7 +113,8 @@ li {
   font-weight: bold;
 }
 .assignment-links a:hover {
-  border: 5px solid yellow;
+  border: 5px solid white;
+  background-color: #FCBA13
   position: relative;
   bottom: 10px;
 }
