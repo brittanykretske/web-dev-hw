@@ -76,8 +76,8 @@ p {
 
 /* profile links */
 .github-profile-link-container {
-  width: 50px;
-  height: 50px;
+  width: 75px;
+  height: 75px;
   border: 2px dotted #FCBA13;
   border-radius: 100px;
 /* positioning: */
@@ -89,9 +89,9 @@ p {
   background-color: #FCBA13;
 }
 .github-profile-link-container>img {
-  width: 30px;
-  height: 30px;
-  margin: 10px;
+  width: 50px;
+  height: 50px;
+  margin: 15px;
 }
 
 
