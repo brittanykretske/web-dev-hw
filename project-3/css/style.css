@@ -32,18 +32,15 @@ a {
   height: 100%;
   background-size: cover;
   opacity: .3;
-/* positioning: */
   position: absolute;
   top: 0;
   left: 0;
-/* layering: */
   z-index: 0;
 }
 
 /* page content */
 #content-container {
   width: inherit;
-/* positioning */
   position: absolute;
   bottom: 5%;
 }
@@ -80,7 +77,6 @@ h3 {
   height: 75px;
   border: 2px dashed #EDED46;
   border-radius: 100px;
-/* positioning: */
   float: right;
   margin: 40px;
   padding: 15px;
@@ -99,7 +95,6 @@ h3 {
 
 /* assignment links */
 .assignment-links {
-/* positioning: */
   position: absolute;
   top: -30px;
   left: 0;
