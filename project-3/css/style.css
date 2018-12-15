@@ -23,8 +23,8 @@ a {
 #image-container {
   /* positioning: */
   position: absolute;
-  bottom: 42;
-  right: 180px;
+  bottom: 36;
+  right: 165px;
 }
 
 #overlay {
